@@ -1,0 +1,12 @@
+{
+  "scale": 4,
+  "mode": "wander",
+  "speech": true,
+  "sleep_idle": true,
+  "on_top": true,
+  "water": 0,
+  "stats": {
+    "pets": 9,
+    "throws": 9
+  }
+}
